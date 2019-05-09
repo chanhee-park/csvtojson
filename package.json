@@ -1,0 +1,17 @@
+{
+  "name": "csvtojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "blah": "node csvtojson",
+    "start": "node csvtojson",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "comment": "HOW TO RUN SCRIPT? npm run blah [...params]"
+}

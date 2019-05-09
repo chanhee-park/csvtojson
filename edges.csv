@@ -1,0 +1,940 @@
+﻿Source,Target,Type,Label,Weight,SOURCE PERSON,TARGET PERSON,DATE
+1,2,Directed,Parent,5,Allemand Pere (Marc Allemand),Etienne Allemand,1740
+1,3,Undirected,Marriage,5,Allemand Pere (Marc Allemand),Marie Giraud,1738
+1,4,Directed,Signatory (marriage),3,Allemand Pere (Marc Allemand),Elizabeth Glaumont,1741
+1,5,Directed,Signatory (marriage),3,Allemand Pere (Marc Allemand),Louis Merceron,1741
+1,6,Directed,Parent,5,Allemand Pere (Marc Allemand),Marie Allemand (ii),1743
+1,8,Directed,Parent,5,Allemand Pere (Marc Allemand),Marie Allemand,1730
+1,10,Directed,Godparent,4,Allemand Pere (Marc Allemand),Marguerite Faure,1721
+1,15,Directed,Signatory of Marriage Contract,2,Allemand Pere (Marc Allemand),Francoise Ferrand,1764
+1,18,Directed,Signatory (baptism),3,Allemand Pere (Marc Allemand),Jean Godinaud,1731
+1,47,Directed,Parent,5,Allemand Pere (Marc Allemand),Jean Allemand,1744
+1,57,Directed,Signatory (marriage),3,Allemand Pere (Marc Allemand),Jeanne Chabot,1756
+1,58,Directed,Signatory (marriage),3,Allemand Pere (Marc Allemand),Jean Yvroix,1756
+1,67,Undirected,Sibling,5,Allemand Pere (Marc Allemand),Marguerite Allemand,
+1,126,Undirected,Marriage,5,Allemand Pere (Marc Allemand),Elizabeth Lecler,
+1,143,Directed,Signatory (marriage),3,Allemand Pere (Marc Allemand),Rose Reze (younger sister),1744
+1,150,Directed,Signatory (marriage),3,Allemand Pere (Marc Allemand),Francois Marin,1744
+1,192,Directed,"Parent, Signatory (marriage)",5,Allemand Pere (Marc Allemand),Martial Allemand (ii),
+1,196,Directed,Parent,5,Allemand Pere (Marc Allemand),Jean Allemand (older),1727
+1,263,Directed,Signatory (baptism),3,Allemand Pere (Marc Allemand),Jeanne Faure (ii),1729
+1,276,Directed,Godparent,4,Allemand Pere (Marc Allemand),Marc Dupard,1757
+1,340,Directed,Signatory (baptism),3,Allemand Pere (Marc Allemand),Jeanne (Janne) Faure,1729
+2,6,Undirected,Sibling,5,Etienne Allemand,Marie Allemand (ii),1743
+2,8,Undirected,Half Sibling,4,Etienne Allemand,Marie Allemand,1740
+2,15,Undirected,Marriage,5,Etienne Allemand,Francoise Ferrand,1764
+2,47,Undirected,Sibling,5,Etienne Allemand,Jean Allemand,1744
+2,76,Directed,Parent,5,Etienne Allemand,Pierre Allemand,1769
+2,94,Directed,Parent,5,Etienne Allemand,Jeanne Allemand (iii),
+2,191,Directed,Parent,5,Etienne Allemand,Jeanne Allemand (ii),1768
+2,192,Directed,Signatory (marriage),3,Etienne Allemand,Martial Allemand (ii),1767
+2,342,Directed,Parent,5,Etienne Allemand,Antoine Allemand,1774
+2,423,Directed,Parent,5,Etienne Allemand,Martial Allemand (ii),1767
+3,2,Directed,Parent,5,Marie Giraud,Etienne Allemand,1740
+3,6,Directed,Parent,5,Marie Giraud,Marie Allemand (ii),1743
+3,47,Directed,Parent,5,Marie Giraud,Jean Allemand,1744
+3,253,Undirected,Sibling,5,Marie Giraud,Pierre Giraud,
+4,2,Directed,Signatory of Marriage Contract,2,Elizabeth Glaumont,Etienne Allemand,1764
+4,5,Undirected,Marriage,5,Elizabeth Glaumont,Louis Merceron,1741
+4,15,Directed,Signatory of Marriage Contract,2,Elizabeth Glaumont,Francoise Ferrand,1764
+4,53,Directed,Signatory (marriage),3,Elizabeth Glaumont,Jean Glaumont (Fils Aine),1759
+4,54,Directed,Signatory (marriage),3,Elizabeth Glaumont,Catherine Lecler,1759
+4,57,Directed,Signatory (marriage),3,Elizabeth Glaumont,Jeanne Chabot,1756
+4,58,Directed,Signatory (marriage),3,Elizabeth Glaumont,Jean Yvroix,1756
+4,78,Directed,Signatory (baptism),3,Elizabeth Glaumont,Francois Dumergue,1733
+4,99,Directed,Signatory (marriage),3,Elizabeth Glaumont,Elizabeth Yvroix,1754
+4,104,Directed,Parent,5,Elizabeth Glaumont,Elizabeth Merceron,1751
+4,107,Directed,Godparent,4,Elizabeth Glaumont,Antoine Glaumont,1742
+4,175,Directed,Signatory (marriage),3,Elizabeth Glaumont,Jeanne Glaumont,1747
+4,223,Directed,Signatory (marriage),3,Elizabeth Glaumont,Francoise Glaumont,1759
+4,224,Directed,Signatory (marriage),3,Elizabeth Glaumont,Francois Lecler,1759
+4,402,Directed,Parent,5,Elizabeth Glaumont,Jean-Louis Merceron,1758
+5,104,Directed,Parent,5,Louis Merceron,Elizabeth Merceron,1751
+5,402,Directed,Parent,5,Louis Merceron,Jean-Louis Merceron,1758
+8,6,Directed,Godparent,4,Marie Allemand,Marie Allemand (ii),1743
+8,15,Directed,Signatory of Marriage Contract,2,Marie Allemand,Francoise Ferrand,1764
+10,2,Directed,Signatory of Marriage Contract,2,Marguerite Faure,Etienne Allemand,1764
+10,6,Directed,Signatory (baptism),3,Marguerite Faure,Marie Allemand (ii),1743
+10,15,Directed,Signatory of Marriage Contract,2,Marguerite Faure,Francoise Ferrand,1764
+10,192,Directed,Signatory (marriage),3,Marguerite Faure,Martial Allemand (ii),1767
+10,342,Directed,Godparent,4,Marguerite Faure,Antoine Allemand,1774
+12,2,Directed,Signatory of Marriage Contract,2,Elizabeth Bourdage,Etienne Allemand,1764
+12,15,Directed,Signatory of Marriage Contract,2,Elizabeth Bourdage,Francoise Ferrand,1764
+12,43,Directed,Godparent,4,Elizabeth Bourdage,Elisabeth Ruillier,1739
+12,44,Undirected,Marriage,5,Elizabeth Bourdage,Jean Tabourin,1723
+12,45,Directed,Parent,5,Elizabeth Bourdage,Marie Charas (Tabourin),1737
+12,46,Directed,Parent,5,Elizabeth Bourdage,Anne Tabourin,1741
+12,47,Directed,Signatory (baptism),3,Elizabeth Bourdage,Jean Allemand,1744
+12,48,Directed,Parent,5,Elizabeth Bourdage,Louis Tabourin,1748
+12,270,Directed,Godparent,4,Elizabeth Bourdage,Jacques Nadaud,1774
+13,2,Directed,Godparent,4,Etienne Turreau de la Cossoniere,Etienne Allemand,1740
+14,2,Directed,Godparent,4,Marie Magdeleine Bussac,Etienne Allemand,1740
+15,15,Directed,Signatory of Marriage Contract,2,Francoise Ferrand,Francoise Ferrand,1764
+15,76,Directed,Parent,5,Francoise Ferrand,Pierre Allemand,1769
+15,94,Directed,Parent,5,Francoise Ferrand,Jeanne Allemand (iii),
+15,191,Directed,Parent,5,Francoise Ferrand,Jeanne Allemand (ii),1768
+15,192,Directed,Signatory (marriage),3,Francoise Ferrand,Martial Allemand (ii),1767
+15,342,Directed,Parent,5,Francoise Ferrand,Antoine Allemand,1774
+15,423,Directed,Parent,5,Francoise Ferrand,Martial Allemand (ii),1767
+17,2,Directed,Signatory of Marriage Contract,2,Marie Bonnard,Etienne Allemand,1764
+17,15,Directed,Signatory of Marriage Contract,2,Marie Bonnard,Francoise Ferrand,1764
+17,18,Undirected,Marriage,5,Marie Bonnard,Jean Godinaud,1756
+17,19,Directed,Signatory (baptism),3,Marie Bonnard,Marguerite Godinaud (younger),1761
+17,118,Directed,Parent,5,Marie Bonnard,Claude Godinaud,1768
+17,120,Directed,Signatory (marriage),3,Marie Bonnard,Marguerite Godinaud,1764
+17,286,Directed,Signatory (marriage),3,Marie Bonnard,Joseph Farbos,1764
+18,2,Directed,Signatory of Marriage Contract,2,Jean Godinaud,Etienne Allemand,1764
+18,15,Directed,Signatory of Marriage Contract,2,Jean Godinaud,Francoise Ferrand,1764
+18,19,Directed,Signatory (baptism),3,Jean Godinaud,Marguerite Godinaud (younger),1761
+18,118,Directed,Parent,5,Jean Godinaud,Claude Godinaud,1768
+18,119,Directed,Godparent,4,Jean Godinaud,Jean Charpentier,1768
+18,120,Undirected,Sibling,5,Jean Godinaud,Marguerite Godinaud,1741
+18,121,Undirected,Sibling,5,Jean Godinaud,Pierre Godinaud,
+20,2,Directed,Signatory of Marriage Contract,2,Catherine Bonvallet,Etienne Allemand,1764
+20,15,Directed,Signatory of Marriage Contract,2,Catherine Bonvallet,Francoise Ferrand,1764
+34,2,Directed,Signatory of Marriage Contract,2,Anne Marguerite Bouhier,Etienne Allemand,1764
+34,15,Directed,Signatory of Marriage Contract,2,Anne Marguerite Bouhier,Francoise Ferrand,1764
+34,35,Undirected,Sibling,5,Anne Marguerite Bouhier,Catherine Bouhier,
+34,36,Directed,Signatory (marriage),3,Anne Marguerite Bouhier,Jean-Joseph Faveraud,1740
+34,343,Directed,Signatory (marriage),3,Anne Marguerite Bouhier,Jeanne Faveraud,1762
+35,2,Directed,Signatory of Marriage Contract,2,Catherine Bouhier,Etienne Allemand,1764
+35,15,Directed,Signatory of Marriage Contract,2,Catherine Bouhier,Francoise Ferrand,1764
+35,36,Undirected,Marriage,5,Catherine Bouhier,Jean-Joseph Faveraud,1740
+35,42,Directed,Parent,5,Catherine Bouhier,Paul Faveraud,
+35,343,Directed,Parent,5,Catherine Bouhier,Jeanne Faveraud,1737
+36,42,Directed,Parent,5,Jean-Joseph Faveraud,Paul Faveraud,
+36,343,Directed,Parent,5,Jean-Joseph Faveraud,Jeanne Faveraud,1737
+37,34,Directed,Parent,5,Paul Bouhier,Anne Marguerite Bouhier,1702
+37,35,Directed,Parent,5,Paul Bouhier,Catherine Bouhier,1717
+37,38,Undirected,Marriage,5,Paul Bouhier,Marguerite Audouin,
+38,35,Directed,Parent,5,Marguerite Audouin,Catherine Bouhier,1717
+39,35,Directed,Godparent,4,Pierre Audouin,Catherine Bouhier,1717
+39,38,Directed,Parent,5,Pierre Audouin,Marguerite Audouin,
+41,34,Directed,Parent,5,Caterine Maurice,Anne Marguerite Bouhier,1702
+41,35,Directed,Godparent,4,Caterine Maurice,Catherine Bouhier,1717
+41,37,Directed,Parent,5,Caterine Maurice,Paul Bouhier,
+44,45,Directed,Parent,5,Jean Tabourin,Marie Charas (Tabourin),1737
+44,46,Directed,Parent,5,Jean Tabourin,Anne Tabourin,1741
+44,47,Directed,Godparent,4,Jean Tabourin,Jean Allemand,1744
+44,48,Directed,Parent,5,Jean Tabourin,Louis Tabourin,1748
+45,46,Undirected,Sibling,5,Marie Charas (Tabourin),Anne Tabourin,1741
+45,48,Undirected,Sibling,5,Marie Charas (Tabourin),Louis Tabourin,1748
+45,270,Directed,Parent,5,Marie Charas (Tabourin),Jacques Nadaud,1774
+46,2,Directed,Signatory of Marriage Contract,2,Anne Tabourin,Etienne Allemand,1764
+46,15,Directed,Signatory of Marriage Contract,2,Anne Tabourin,Francoise Ferrand,1764
+46,48,Undirected,Sibling,5,Anne Tabourin,Louis Tabourin,1748
+46,141,Directed,Signatory (marriage),3,Anne Tabourin,Rose Andree Marin (Rose Marin),1764
+46,142,Directed,Signatory (marriage),3,Anne Tabourin,Claude Reze,1764
+47,6,Undirected,Sibling,5,Jean Allemand,Marie Allemand (ii),1744
+47,8,Undirected,Half Sibling,4,Jean Allemand,Marie Allemand,1744
+49,2,Directed,Signatory of Marriage Contract,2,Jean-Baptiste Brillet,Etienne Allemand,1764
+49,15,Directed,Signatory of Marriage Contract,2,Jean-Baptiste Brillet,Francoise Ferrand,1764
+49,50,Undirected,Marriage,5,Jean-Baptiste Brillet,Elizabeth Yver Brillet,1751
+50,2,Directed,Signatory of Marriage Contract,2,Elizabeth Yver Brillet,Etienne Allemand,1764
+50,15,Directed,Signatory of Marriage Contract,2,Elizabeth Yver Brillet,Francoise Ferrand,1764
+51,2,Directed,Signatory of Marriage Contract,2,Marguerite Barathe,Etienne Allemand,1764
+51,15,Directed,Signatory of Marriage Contract,2,Marguerite Barathe,Francoise Ferrand,1764
+51,71,Undirected,Marriage,5,Marguerite Barathe,Jean Giraud,1721
+51,194,Directed,Parent,5,Marguerite Barathe,Francoise Giraud,1724
+51,267,Directed,Parent,5,Marguerite Barathe,Jean Giraud (ii) (Giraud Fils),1737
+51,279,Directed,Parent,5,Marguerite Barathe,Jeanne Giraud,1723
+51,408,Directed,Godparent,4,Marguerite Barathe,Marguerite Guiot,1752
+51,428,Directed,Parent,5,Marguerite Barathe,Jean Giraud (iii),1730
+52,2,Directed,Signatory of Marriage Contract,2,Catherine Chabot,Etienne Allemand,1764
+52,15,Directed,Signatory of Marriage Contract,2,Catherine Chabot,Francoise Ferrand,1764
+52,55,Directed,Godparent,4,Catherine Chabot,Michel Glaumont,1770
+52,57,Directed,Signatory (marriage),3,Catherine Chabot,Jeanne Chabot,1756
+52,58,Directed,Signatory (marriage),3,Catherine Chabot,Jean Yvroix,1756
+52,190,Directed,Signatory (baptism),3,Catherine Chabot,Jeanne Delafont,1753
+52,311,Directed,Godparent,4,Catherine Chabot,Catherine Yrvoix,1756
+53,2,Directed,Signatory of Marriage Contract,2,Jean Glaumont (Fils Aine),Etienne Allemand,1764
+53,15,Directed,Signatory of Marriage Contract,2,Jean Glaumont (Fils Aine),Francoise Ferrand,1764
+53,54,Undirected,Marriage,5,Jean Glaumont (Fils Aine),Catherine Lecler,1759
+53,55,Directed,Parent,5,Jean Glaumont (Fils Aine),Michel Glaumont,1770
+53,56,Undirected,Sibling,5,Jean Glaumont (Fils Aine),Philippe Glaumont,
+53,107,Directed,Sibling,5,Jean Glaumont (Fils Aine),Antoine Glaumont,1742
+53,190,Directed,Signatory (baptism),3,Jean Glaumont (Fils Aine),Jeanne Delafont,1753
+53,260,Directed,Godparent,4,Jean Glaumont (Fils Aine),Jeanne Lecler (younger),1767
+54,2,Directed,Signatory of Marriage Contract,2,Catherine Lecler,Etienne Allemand,1764
+54,15,Directed,Signatory of Marriage Contract,2,Catherine Lecler,Francoise Ferrand,1764
+54,55,Directed,Parent,5,Catherine Lecler,Michel Glaumont,1770
+54,230,Directed,Godparent,4,Catherine Lecler,Jean-Baptiste Lecler,1766
+56,55,Directed,Godparent,4,Philippe Glaumont,Michel Glaumont,1770
+56,139,Directed,Godparent,5,Philippe Glaumont,Marie Claude,1743
+56,175,Directed,Signatory (marriage),3,Philippe Glaumont,Jeanne Glaumont,1747
+57,2,Directed,Signatory of Marriage Contract,2,Jeanne Chabot,Etienne Allemand,1764
+57,15,Directed,Signatory of Marriage Contract,2,Jeanne Chabot,Francoise Ferrand,1764
+57,58,Undirected,Marriage,5,Jeanne Chabot,Jean Yvroix,1756
+57,59,Directed,Parent,5,Jeanne Chabot,Jean Yvroix (younger),1761
+57,190,Directed,Godparent,4,Jeanne Chabot,Jeanne Delafont,1753
+57,311,Directed,Parent,5,Jeanne Chabot,Catherine Yrvoix,1756
+58,2,Directed,Signatory of Marriage Contract,2,Jean Yvroix,Etienne Allemand,1764
+58,15,Directed,Signatory of Marriage Contract,2,Jean Yvroix,Francoise Ferrand,1764
+58,59,Directed,Parent,5,Jean Yvroix,Jean Yvroix (younger),1761
+58,99,Directed,Signatory (marriage),3,Jean Yvroix,Elizabeth Yvroix,1754
+58,168,Directed,Godparent,4,Jean Yvroix,Jean Raymond,1758
+58,175,Directed,Signatory (marriage),3,Jean Yvroix,Jeanne Glaumont,1747
+58,311,Directed,Parent,5,Jean Yvroix,Catherine Yrvoix,1756
+58,402,Directed,Godparent,4,Jean Yvroix,Jean-Louis Merceron,1758
+60,2,Directed,Signatory of Marriage Contract,2,Jean-Baptiste Marchais de la Chapelle,Etienne Allemand,1764
+60,15,Directed,Signatory of Marriage Contract,2,Jean-Baptiste Marchais de la Chapelle,Francoise Ferrand,1764
+60,61,Directed,Parent,3,Jean-Baptiste Marchais de la Chapelle,Marie Marchais,1765
+60,81,Undirected,Marriage,5,Jean-Baptiste Marchais de la Chapelle,Rose Jusse,
+60,131,Directed,Godparent,4,Jean-Baptiste Marchais de la Chapelle,Jean-Baptiste Marchais,1725
+60,153,Directed,Parent,5,Jean-Baptiste Marchais de la Chapelle,Anne Marchais,1740
+60,234,Directed,Parent,5,Jean-Baptiste Marchais de la Chapelle,Pierre Marchais (ii),1730
+60,239,Directed,Parent,5,Jean-Baptiste Marchais de la Chapelle,Jean-Baptiste Marchais de la Chapelle (younger),
+63,2,Directed,Signatory of Marriage Contract,2,Chatherine Charas,Etienne Allemand,1764
+63,15,Directed,Signatory of Marriage Contract,2,Chatherine Charas,Francoise Ferrand,1764
+65,2,Directed,Signatory of Marriage Contract,2,St. Mexant De Crevecoeur,Etienne Allemand,1764
+65,15,Directed,Signatory of Marriage Contract,2,St. Mexant De Crevecoeur,Francoise Ferrand,1764
+66,67,Undirected,Marriage,5,Jean Claude dit Daufinete,Marguerite Allemand,
+66,139,Directed,Parent,5,Jean Claude dit Daufinete,Marie Claude,1743
+66,313,Directed,Parent,5,Jean Claude dit Daufinete,Marie Claude,1750
+66,316,Directed,Parent,5,Jean Claude dit Daufinete,Daufinete (Pierre Claude),1742
+67,139,Directed,Parent,5,Marguerite Allemand,Marie Claude,1743
+68,2,Directed,Signatory of Marriage Contract,2,Elizabeth Demiere,Etienne Allemand,1764
+68,15,Directed,Signatory of Marriage Contract,2,Elizabeth Demiere,Francoise Ferrand,1764
+71,2,Directed,Signatory of Marriage Contract,2,Jean Giraud,Etienne Allemand,1764
+71,3,Directed,Parent,5,Jean Giraud,Marie Giraud,
+71,15,Directed,Signatory of Marriage Contract,2,Jean Giraud,Francoise Ferrand,1764
+71,47,Directed,Signatory (baptism),3,Jean Giraud,Jean Allemand,1744
+71,68,Directed,Godparent,4,Jean Giraud,Elizabeth Demiere,1725
+71,98,Directed,Parent,5,Jean Giraud,Pierre Andre Giraud,1724
+71,194,Directed,Parent,5,Jean Giraud,Francoise Giraud,1724
+71,252,Undirected,Marriage,5,Jean Giraud,Suzanne Dufort,
+71,253,Directed,Parent,5,Jean Giraud,Pierre Giraud,1716
+71,267,Directed,Parent,5,Jean Giraud,Jean Giraud (ii) (Giraud Fils),1737
+71,279,Directed,Parent,5,Jean Giraud,Jeanne Giraud,1723
+71,428,Directed,Parent,5,Jean Giraud,Jean Giraud (iii),1730
+73,2,Directed,Signatory of Marriage Contract,2,Marie Adelaide DeVuailly - Ferrand,Etienne Allemand,1764
+73,15,Directed,Signatory of Marriage Contract,2,Marie Adelaide DeVuailly - Ferrand,Francoise Ferrand,1764
+73,74,Undirected,Marriage,5,Marie Adelaide DeVuailly - Ferrand,Gabriel Ferrand,1763
+73,75,Directed,Parent,5,Marie Adelaide DeVuailly - Ferrand,Gabriel Ferrand (younger),1764
+73,76,Directed,Godparent (GG14/43),4,Marie Adelaide DeVuailly - Ferrand,Pierre Allemand,1769
+73,127,Undirected,Sibling,5,Marie Adelaide DeVuailly - Ferrand,D. Lemaitre (Dorothee Devuailly),
+73,128,Directed,Signatory (marriage),3,Marie Adelaide DeVuailly - Ferrand,Gabriel Lemaitre,1764
+74,2,Directed,Signatory of Marriage Contract,2,Gabriel Ferrand,Etienne Allemand,1764
+74,15,Undirected,Sibling,5,Gabriel Ferrand,Francoise Ferrand,
+74,75,Directed,Parent,5,Gabriel Ferrand,Gabriel Ferrand (younger),1764
+74,191,Directed,Godparent,4,Gabriel Ferrand,Jeanne Allemand (ii),1766
+77,2,Directed,Signatory of Marriage Contract,2,Jean Dumergue,Etienne Allemand,1764
+77,15,Directed,Signatory of Marriage Contract,2,Jean Dumergue,Francoise Ferrand,1764
+77,53,Directed,Signatory (marriage),3,Jean Dumergue,Jean Glaumont (Fils Aine),1759
+77,54,Directed,Signatory (marriage),3,Jean Dumergue,Catherine Lecler,1759
+77,56,Directed,Signatory (baptism),3,Jean Dumergue,Philippe Glaumont,1738
+77,78,Undirected,Sibling,5,Jean Dumergue,Francois Dumergue,
+77,147,Undirected,Marriage,5,Jean Dumergue,M. Monaud (Marguerite Monneau/Monnaud),1754
+77,190,Directed,Godparent,4,Jean Dumergue,Jeanne Delafont,1753
+77,223,Directed,Signatory (marriage),3,Jean Dumergue,Francoise Glaumont,1759
+77,224,Directed,Signatory (marriage),3,Jean Dumergue,Francois Lecler,1759
+77,228,Undirected,Signatory (marriage),3,Jean Dumergue,Pierre Monnaud,1761
+77,274,Directed,Parent,5,Jean Dumergue,Jean Dumergue (iii),1766
+77,389,Directed,Parent,5,Jean Dumergue,Marthe Dumergue,
+79,2,Directed,Signatory of Marriage Contract,2,Magdelaine Dumergue,Etienne Allemand,1764
+79,15,Directed,Signatory of Marriage Contract,2,Magdelaine Dumergue,Francoise Ferrand,1764
+79,80,Undirected,Marriage,5,Magdelaine Dumergue,Pierre Marchais,1728
+79,83,Directed,Godparent,4,Magdelaine Dumergue,Magdelaine Dupuy,1745
+79,136,Directed,Signatory (marriage),3,Magdelaine Dumergue,Marthe Marchais,1762
+79,244,Directed,Parent,5,Magdelaine Dumergue,Magdelaine Marchais,
+79,322,Directed,Parent,5,Magdelaine Dumergue,Pierre Marchais (iii),1742
+79,382,Directed,Signatory (marriage),3,Magdelaine Dumergue,Pechillon de la Borderie,
+80,2,Directed,Signatory of Marriage Contract,2,Pierre Marchais,Etienne Allemand,1764
+80,15,Directed,Signatory of Marriage Contract,2,Pierre Marchais,Francoise Ferrand,1764
+80,209,Directed,Signatory (marriage),3,Pierre Marchais,Marie Durand,1752
+80,234,Directed,Godparent,4,Pierre Marchais,Pierre Marchais (ii),1730
+80,239,Directed,Signatory (marriage),3,Pierre Marchais,Jean-Baptiste Marchais de la Chapelle (younger),1752
+80,244,Directed,Parent,5,Pierre Marchais,Magdelaine Marchais,
+80,322,Directed,Parent,5,Pierre Marchais,Pierre Marchais (iii),1742
+81,79,Directed,Signatory (marriage),3,Rose Jusse,Magdelaine Dumergue,1728
+81,80,Directed,Signatory (marriage),3,Rose Jusse,Pierre Marchais,1728
+81,143,Directed,Godparent,4,Rose Jusse,Rose Reze (younger sister),1715
+81,153,Directed,Parent,5,Rose Jusse,Anne Marchais,1740
+81,195,Directed,Godparent,4,Rose Jusse,Rose Reze (older sister),1703
+81,234,Directed,Parent,5,Rose Jusse,Pierre Marchais (ii),1730
+84,2,Directed,Signatory of Marriage Contract,2,Marguerite Durousot,Etienne Allemand,1764
+84,15,Directed,Signatory of Marriage Contract,2,Marguerite Durousot,Francoise Ferrand,1764
+84,288,Undirected,Marriage,5,Marguerite Durousot,Jean Joubert,1753
+84,333,Directed,Parent,5,Marguerite Durousot,Marc Joubert,1757
+84,375,Directed,Parent,5,Marguerite Durousot,Jean Joubert (iii),1754
+85,2,Directed,Signatory of Marriage Contract,2,Louis Dupard,Etienne Allemand,1764
+85,15,Directed,Signatory of Marriage Contract,2,Louis Dupard,Francoise Ferrand,1764
+85,276,Directed,Parent,5,Louis Dupard,Marc Dupard,1757
+85,329,Directed,Godparent,4,Louis Dupard,Magdelaine Forgeron,1764
+85,330,Directed,Parent,5,Louis Dupard,Marguerite Dupard,1756
+86,2,Directed,Signatory of Marriage Contract,2,Rosse Duriou,Etienne Allemand,1764
+87,2,Directed,Signatory (marriage),3,Anne Faure,Etienne Allemand,1765
+87,15,Directed,Signatory (marriage),5,Anne Faure,Francoise Ferrand,1765
+87,191,Directed,Signatory (baptism),3,Anne Faure,Jeanne Allemand (ii),1766
+87,202,Undirected,Marriage,5,Anne Faure,Antoine Faure,1757
+90,2,Directed,Signatory of Marriage Contract,2,M. Faveraud (Marguerite Faveraud),Etienne Allemand,1764
+90,15,Directed,Signatory of Marriage Contract,2,M. Faveraud (Marguerite Faveraud),Francoise Ferrand,1764
+90,343,Directed,Signatory (marriage),3,M. Faveraud (Marguerite Faveraud),Jeanne Faveraud,1762
+91,15,Directed,Parent,5,Louis Ferrand,Francoise Ferrand,
+91,74,Directed,Parent,5,Louis Ferrand,Gabriel Ferrand,
+91,92,Undirected,Marriage,5,Louis Ferrand,Marie Aymard,
+91,93,Directed,Parent,5,Louis Ferrand,Jean-Baptiste Ferrand,
+92,15,Directed,Parent,5,Marie Aymard,Francoise Ferrand,
+92,74,Directed,Parent,5,Marie Aymard,Gabriel Ferrand,
+92,75,Directed,Godparent,4,Marie Aymard,Gabriel Ferrand (younger),1764
+92,93,Directed,Parent,5,Marie Aymard,Jean-Baptiste Ferrand,
+93,2,Directed,Signatory of Marriage Contract,2,Jean-Baptiste Ferrand,Etienne Allemand,1764
+93,15,Undirected,Sibling,5,Jean-Baptiste Ferrand,Francoise Ferrand,
+93,74,Undirected,Sibling,5,Jean-Baptiste Ferrand,Gabriel Ferrand,
+93,94,Directed,Godparent,4,Jean-Baptiste Ferrand,Jeanne Allemand (iii),
+95,2,Directed,Signatory of Marriage Contract,2,Jean-Baptiste Chaigneau Fonchaudiere,Etienne Allemand,1764
+95,15,Directed,Signatory of Marriage Contract,2,Jean-Baptiste Chaigneau Fonchaudiere,Francoise Ferrand,1764
+96,2,Directed,Signatory of Marriage Contract,2,Madeleine-Anne Gralhat Fonchaudiere,Etienne Allemand,1764
+96,15,Directed,Signatory of Marriage Contract,2,Madeleine-Anne Gralhat Fonchaudiere,Francoise Ferrand,1764
+96,95,Undirected,Marriage,5,Madeleine-Anne Gralhat Fonchaudiere,Jean-Baptiste Chaigneau Fonchaudiere,1755
+98,194,Undirected,Sibling,5,Pierre Andre Giraud,Francoise Giraud,1724
+98,267,Undirected,Sibling,5,Pierre Andre Giraud,Jean Giraud (ii) (Giraud Fils),
+98,279,Undirected,Sibling,5,Pierre Andre Giraud,Jeanne Giraud,1724
+98,428,Undirected,Sibling,5,Pierre Andre Giraud,Jean Giraud (iii),
+101,2,Directed,Signatory of Marriage Contract,2,Gilles Yrvoix,Etienne Allemand,1764
+101,4,Directed,Signatory (marriage),3,Gilles Yrvoix,Elizabeth Glaumont,1741
+101,5,Directed,Signatory (marriage),3,Gilles Yrvoix,Louis Merceron,1741
+101,15,Directed,Signatory of Marriage Contract,2,Gilles Yrvoix,Francoise Ferrand,1764
+101,57,Directed,Signatory (marriage),3,Gilles Yrvoix,Jeanne Chabot,1756
+101,58,Directed,Parent,5,Gilles Yrvoix,Jean Yvroix,1734
+101,99,Directed,Parent,5,Gilles Yrvoix,Elizabeth Yvroix,
+101,102,Undirected,Marriage,5,Gilles Yrvoix,Magdelaine Glaumont (ii),
+101,311,Directed,Godparent,4,Gilles Yrvoix,Catherine Yrvoix,1756
+101,401,Directed,Parent,5,Gilles Yrvoix,Jeanne Yvroix,1737
+102,56,Directed,Godparent,4,Magdelaine Glaumont (ii),Philippe Glaumont,1738
+102,58,Directed,Parent,5,Magdelaine Glaumont (ii),Jean Yvroix,1734
+102,99,Directed,Parent,5,Magdelaine Glaumont (ii),Elizabeth Yvroix,
+102,106,Undirected,Sibling,10,Magdelaine Glaumont (ii),Jean Glaumont,
+102,175,Undirected,Sibling,5,Magdelaine Glaumont (ii),Jeanne Glaumont,
+102,401,Directed,Parent,5,Magdelaine Glaumont (ii),Jeanne Yvroix,1737
+103,77,Directed,Parent,5,Elizabeth Glaumont (ii),Jean Dumergue,1725
+103,78,Directed,Parent,5,Elizabeth Glaumont (ii),Francois Dumergue,1733
+103,104,Directed,Godparent,4,Elizabeth Glaumont (ii),Elizabeth Merceron,1751
+106,2,Directed,Signatory of Marriage Contract,2,Jean Glaumont,Etienne Allemand,1764
+106,15,Directed,Signatory of Marriage Contract,2,Jean Glaumont,Francoise Ferrand,1764
+106,18,Directed,Godparent,4,Jean Glaumont,Jean Godinaud,1731
+106,53,Directed,Parent,5,Jean Glaumont,Jean Glaumont (Fils Aine),
+106,54,Directed,Signatory (marriage),3,Jean Glaumont,Catherine Lecler,1759
+106,56,Directed,Parent,5,Jean Glaumont,Philippe Glaumont,1738
+106,59,Directed,Godparent,4,Jean Glaumont,Jean Yvroix (younger),1761
+106,107,Directed,Parent,5,Jean Glaumont,Antoine Glaumont,1742
+106,125,Undirected,Marriage,5,Jean Glaumont,Marie Iandron (Gendron),
+106,175,Undirected,Sibling,5,Jean Glaumont,Jeanne Glaumont,
+106,223,Directed,Parent,5,Jean Glaumont,Francoise Glaumont,
+106,224,Directed,Signatory (marriage),3,Jean Glaumont,Francois Lecler,
+106,230,Directed,Godparent,4,Jean Glaumont,Jean-Baptiste Lecler,1766
+106,262,Directed,Godparent,4,Jean Glaumont,Jean Dumergue (ii),1767
+106,263,Directed,Godparent,4,Jean Glaumont,Jeanne Faure (ii),1729
+106,340,Directed,Godparent,4,Jean Glaumont,Jeanne (Janne) Faure,1729
+106,355,Directed,Parent,5,Jean Glaumont,Magdelaine Glaumont,1734
+107,2,Directed,Signatory of Marriage Contract,2,Antoine Glaumont,Etienne Allemand,1764
+107,15,Directed,Signatory of Marriage Contract,2,Antoine Glaumont,Francoise Ferrand,1764
+107,56,Undirected,Sibling,5,Antoine Glaumont,Philippe Glaumont,
+111,74,Directed,Godparent,4,Marguerite Paponnet,Gabriel Ferrand,1738
+116,1,Undirected,Godparent,4,Madeleine Allemand,Allemand Pere (Marc Allemand),1698
+116,264,Directed,Parent,5,Madeleine Allemand,Marc Godinaud,
+120,2,Directed,Signatory of Marriage Contract,2,Marguerite Godinaud,Etienne Allemand,1764
+120,15,Directed,Signatory of Marriage Contract,2,Marguerite Godinaud,Francoise Ferrand,1764
+120,17,Directed,Signatory (marriage),3,Marguerite Godinaud,Marie Bonnard,1756
+120,19,Directed,Signatory (baptism),3,Marguerite Godinaud,Marguerite Godinaud (younger),1761
+120,286,Undirected,Marriage,5,Marguerite Godinaud,Joseph Farbos,1764
+121,2,Directed,Signatory of Marriage Contract,2,Pierre Godinaud,Etienne Allemand,1764
+121,15,Directed,Signatory of Marriage Contract,2,Pierre Godinaud,Francoise Ferrand,1764
+121,17,Directed,Signatory (marriage),3,Pierre Godinaud,Marie Bonnard,1756
+121,19,Directed,Parent,5,Pierre Godinaud,Marguerite Godinaud (younger),1761
+121,120,Undirected,Sibling,10,Pierre Godinaud,Marguerite Godinaud,1764
+121,286,Directed,Signatory (marriage),3,Pierre Godinaud,Joseph Farbos,1764
+121,360,Directed,Parent,5,Pierre Godinaud,Jeanne-Marie Godinaud,1754
+121,364,Directed,Godparent,4,Pierre Godinaud,Pierre Andre Landry,1788
+121,365,Directed,Parent,5,Pierre Godinaud,Magdelaine Godinaud,
+121,367,Directed,Godparent,4,Pierre Godinaud,Jeanne Ferrand,1778
+121,406,Directed,Signatory (marriage),3,Pierre Godinaud,Jean Bonnard,1767
+122,19,Directed,Parent,5,Elizabeth Grelier,Marguerite Godinaud (younger),1761
+122,121,Undirected,Marriage,5,Elizabeth Grelier,Pierre Godinaud,
+123,2,Directed,Signatory of Marriage Contract,2,Jacques Gralhat,Etienne Allemand,1764
+123,15,Directed,Signatory of Marriage Contract,2,Jacques Gralhat,Francoise Ferrand,1764
+123,96,Directed,Parent,5,Jacques Gralhat,Madeleine-Anne Gralhat Fonchaudiere,
+124,2,Directed,Signatory of Marriage Contract,2,Antoine Laforet,Etienne Allemand,1764
+124,15,Directed,Signatory of Marriage Contract,2,Antoine Laforet,Francoise Ferrand,1764
+125,2,Directed,Signatory of Marriage Contract,2,Marie Iandron (Gendron),Etienne Allemand,1764
+125,15,Directed,Signatory of Marriage Contract,2,Marie Iandron (Gendron),Francoise Ferrand,1764
+125,53,Directed,Signatory (marriage),8,Marie Iandron (Gendron),Jean Glaumont (Fils Aine),1759
+125,54,Directed,Signatory (marriage),3,Marie Iandron (Gendron),Catherine Lecler,1759
+125,56,Directed,Parent,5,Marie Iandron (Gendron),Philippe Glaumont,1738
+125,107,Directed,Parent,5,Marie Iandron (Gendron),Antoine Glaumont,1742
+125,223,Directed,Signatory (marriage),8,Marie Iandron (Gendron),Francoise Glaumont,1759
+125,224,Directed,Signatory (marriage),3,Marie Iandron (Gendron),Francois Lecler,1759
+125,355,Directed,Parent,5,Marie Iandron (Gendron),Magdelaine Glaumont,1734
+126,192,Directed,Parent,5,Elizabeth Lecler,Martial Allemand (ii),
+126,196,Directed,Parent,5,Elizabeth Lecler,Jean Allemand (older),1727
+127,2,Directed,Signatory of Marriage Contract,2,D. Lemaitre (Dorothee Devuailly),Etienne Allemand,1764
+127,15,Directed,Signatory of Marriage Contract,2,D. Lemaitre (Dorothee Devuailly),Francoise Ferrand,1764
+127,128,Undirected,Marriage,5,D. Lemaitre (Dorothee Devuailly),Gabriel Lemaitre,1764
+128,2,Directed,Signatory (marriage),3,Gabriel Lemaitre,Etienne Allemand,1765
+128,15,Directed,Signatory (marriage),3,Gabriel Lemaitre,Francoise Ferrand,1765
+128,75,Directed,Signatory (baptism),3,Gabriel Lemaitre,Gabriel Ferrand (younger),1764
+128,181,Undirected,Sibling,5,Gabriel Lemaitre,Francoise Lemaitre,
+129,130,Undirected,Marriage,5,Louis Marchais,Jeanne Besson,
+129,133,Directed,Parent,5,Louis Marchais,Marguerite Marchais,1727
+130,133,Directed,Parent,5,Jeanne Besson,Marguerite Marchais,1727
+131,2,Directed,Signatory of Marriage Contract,2,Jean-Baptiste Marchais,Etienne Allemand,1764
+131,15,Directed,Signatory of Marriage Contract,2,Jean-Baptiste Marchais,Francoise Ferrand,1764
+131,380,Undirected,Sibling,5,Jean-Baptiste Marchais,Antoine Marchais,
+132,131,Directed,Godparent,4,Francoise Besson,Jean-Baptiste Marchais,1725
+133,2,Directed,Signatory of Marriage Contract,2,Marguerite Marchais,Etienne Allemand,1764
+133,15,Directed,Signatory of Marriage Contract,2,Marguerite Marchais,Francoise Ferrand,1764
+133,136,Directed,Signatory (marriage),3,Marguerite Marchais,Marthe Marchais,
+133,244,Directed,Signatory (marriage),3,Marguerite Marchais,Magdelaine Marchais,1766
+133,382,Directed,Signatory (marriage),3,Marguerite Marchais,Pechillon de la Borderie,
+134,133,Directed,Godparent,4,Jean Besson,Marguerite Marchais,1727
+135,133,Directed,Godparent,4,Marguerite Penot,Marguerite Marchais,1727
+139,2,Directed,Signatory of Marriage Contract,2,Marie Claude,Etienne Allemand,1764
+139,15,Directed,Signatory of Marriage Contract,2,Marie Claude,Francoise Ferrand,1764
+139,191,Directed,Signatory (baptism),3,Marie Claude,Jeanne Allemand (ii),1768
+139,192,Directed,Signatory (marriage),3,Marie Claude,Martial Allemand (ii),1767
+139,316,Undirected,Sibling,5,Marie Claude,Daufinete (Pierre Claude),1743
+141,2,Directed,Signatory of Marriage Contract,2,Rose Andree Marin (Rose Marin),Etienne Allemand,1764
+141,15,Directed,Signatory of Marriage Contract,2,Rose Andree Marin (Rose Marin),Francoise Ferrand,1764
+141,142,Undirected,Marriage,5,Rose Andree Marin (Rose Marin),Claude Reze,1764
+141,154,Undirected,Sibling,5,Rose Andree Marin (Rose Marin),Rose Marin,1754
+142,292,Undirected,Sibling,5,Claude Reze,Pierre Reze,
+143,141,Directed,Parent,5,Rose Reze (younger sister),Rose Andree Marin (Rose Marin),1748
+143,142,Undirected,Sibling,5,Rose Reze (younger sister),Claude Reze,
+143,150,Undirected,Marriage,5,Rose Reze (younger sister),Francois Marin,1744
+143,153,Directed,Godparent,4,Rose Reze (younger sister),Anne Marchais,1740
+143,154,Directed,Parent,5,Rose Reze (younger sister),Rose Marin,1754
+143,195,Undirected,Sibling,5,Rose Reze (younger sister),Rose Reze (older sister),1703
+143,287,Undirected,Sibling,5,Rose Reze (younger sister),Jacques Reze,
+143,292,Undirected,Sibling,5,Rose Reze (younger sister),Pierre Reze,
+144,2,Directed,Signatory of Marriage Contract,2,Mazaud,Etienne Allemand,1764
+144,15,Directed,Signatory of Marriage Contract,2,Mazaud,Francoise Ferrand,1764
+146,2,Directed,Signatory of Marriage Contract,2,Brillet,Etienne Allemand,1764
+146,15,Directed,Signatory of Marriage Contract,2,Brillet,Francoise Ferrand,1764
+147,2,Directed,Signatory of Marriage Contract,2,M. Monaud (Marguerite Monneau/Monnaud),Etienne Allemand,1764
+147,15,Directed,Signatory of Marriage Contract,2,M. Monaud (Marguerite Monneau/Monnaud),Francoise Ferrand,1764
+147,53,Directed,Signatory (marriage),3,M. Monaud (Marguerite Monneau/Monnaud),Jean Glaumont (Fils Aine),1759
+147,54,Directed,Signatory (marriage),3,M. Monaud (Marguerite Monneau/Monnaud),Catherine Lecler,1759
+147,93,Directed,Godparent,4,M. Monaud (Marguerite Monneau/Monnaud),Jean-Baptiste Ferrand,1749
+147,223,Directed,Signatory (marriage),3,M. Monaud (Marguerite Monneau/Monnaud),Francoise Glaumont,1759
+147,224,Directed,Signatory (marriage),3,M. Monaud (Marguerite Monneau/Monnaud),Francois Lecler,1759
+147,228,Undirected,Sibling,5,M. Monaud (Marguerite Monneau/Monnaud),Pierre Monnaud,
+147,274,Directed,Parent,5,M. Monaud (Marguerite Monneau/Monnaud),Jean Dumergue (iii),1766
+147,388,Undirected,Sibling,5,M. Monaud (Marguerite Monneau/Monnaud),Marguerite Monnaud (ii),1745
+147,389,Directed,Parent,5,M. Monaud (Marguerite Monneau/Monnaud),Marthe Dumergue,
+147,390,Directed,Signatory (marriage),3,M. Monaud (Marguerite Monneau/Monnaud),Louis Felix,1799
+149,2,Directed,Signatory of Marriage Contract,2,Racomp,Etienne Allemand,1764
+149,15,Directed,Signatory of Marriage Contract,2,Racomp,Francoise Ferrand,1764
+150,2,Directed,Signatory (marriage),3,Francois Marin,Etienne Allemand,1765
+150,15,Directed,Signatory (marriage),3,Francois Marin,Francoise Ferrand,1765
+150,141,Directed,Parent,5,Francois Marin,Rose Andree Marin (Rose Marin),1748
+150,154,Directed,Parent,5,Francois Marin,Rose Marin,1754
+150,383,Undirected,Sibling,5,Francois Marin,Elisabeth Marin,
+152,81,Undirected,Sibling,5,Luce Jusse,Rose Jusse,
+152,142,Directed,Parent,5,Luce Jusse,Claude Reze,
+152,143,Directed,Parent,5,Luce Jusse,Rose Reze (younger sister),
+152,195,Directed,Parent,5,Luce Jusse,Rose Reze (older sister),1703
+152,287,Directed,Parent,5,Luce Jusse,Jacques Reze,
+153,234,Undirected,Sibling,5,Anne Marchais,Pierre Marchais (ii),1730
+154,2,Directed,Signatory of Marriage Contract,2,Rose Marin,Etienne Allemand,1764
+154,15,Directed,Signatory of Marriage Contract,2,Rose Marin,Francoise Ferrand,1764
+154,142,Directed,Signatory (marriage),3,Rose Marin,Claude Reze,1764
+155,2,Directed,Signatory of Marriage Contract,2,Jean Roy,Etienne Allemand,1764
+155,15,Directed,Signatory of Marriage Contract,2,Jean Roy,Francoise Ferrand,1764
+156,2,Directed,Signatory of Marriage Contract,2,Matthieu Thibaud,Etienne Allemand,1764
+156,15,Directed,Signatory of Marriage Contract,2,Matthieu Thibaud,Francoise Ferrand,1764
+156,143,Directed,Signatory (marriage),3,Matthieu Thibaud,Rose Reze (younger sister),1744
+156,150,Directed,Signatory (marriage),3,Matthieu Thibaud,Francois Marin,1744
+156,157,Directed,Parent,5,Matthieu Thibaud,Barthelemi Thibaud (younger),1764
+156,191,Directed,Signatory (baptism),3,Matthieu Thibaud,Jeanne Allemand (ii),1766
+156,195,Directed,Signatory (death),3,Matthieu Thibaud,Rose Reze (older sister),1781
+161,2,Directed,Signatory of Marriage Contract,2,Antoinette Thibaud,Etienne Allemand,1764
+161,15,Directed,Signatory of Marriage Contract,2,Antoinette Thibaud,Francoise Ferrand,1764
+161,157,Directed,Godparent,4,Antoinette Thibaud,Barthelemi Thibaud (younger),1763
+161,159,Directed,Godparent,4,Antoinette Thibaud,Anthoinette Cotty,1733
+161,162,Directed,Godparent,4,Antoinette Thibaud,Antoinette Delage,1751
+161,215,Undirected,Sibling,5,Antoinette Thibaud,Barthelemi Thibaud,
+163,2,Directed,Signatory of Marriage Contract,2,Marie Tilhard,Etienne Allemand,1764
+163,15,Directed,Signatory of Marriage Contract,2,Marie Tilhard,Francoise Ferrand,1764
+163,259,Directed,Godparent,4,Marie Tilhard,Marie Chassereau,1750
+164,2,Directed,Signatory of Marriage Contract,2,Mauricete Vinsac,Etienne Allemand,1764
+164,15,Directed,Signatory of Marriage Contract,2,Mauricete Vinsac,Francoise Ferrand,1764
+164,165,Directed,Godparent,4,Mauricete Vinsac,Francois Vinsac,1763
+164,166,Undirected,Sibling,5,Mauricete Vinsac,Michel Vinsac,
+172,99,Directed,Signatory (Marriage),3,Marie Yvroix,Elizabeth Yvroix,1754
+172,253,Directed,Godparent,4,Marie Yvroix,Pierre Giraud,1716
+172,402,Directed,Signatory (baptism),3,Marie Yvroix,Jean-Louis Merceron,1758
+175,53,Directed,Signatory (marriage),3,Jeanne Glaumont,Jean Glaumont (Fils Aine),1759
+175,54,Directed,Signatory (marriage),3,Jeanne Glaumont,Catherine Lecler,1759
+175,99,Directed,Signatory (Marriage),3,Jeanne Glaumont,Elizabeth Yvroix,1754
+175,223,Directed,Signatory (marriage),3,Jeanne Glaumont,Francoise Glaumont,1759
+175,224,Directed,Signatory (marriage),3,Jeanne Glaumont,Francois Lecler,1759
+178,19,Directed,Signatory (baptism),3,Magdeleine Godinaud,Marguerite Godinaud (younger),1761
+178,120,Directed,Signatory (marriage),3,Magdeleine Godinaud,Marguerite Godinaud,1764
+178,286,Directed,Signatory (marriage),3,Magdeleine Godinaud,Joseph Farbos,1764
+179,128,Directed,Parent,5,Charles Lemaitre,Gabriel Lemaitre,
+179,180,Undirected,Marriage,5,Charles Lemaitre,Marie Klotz,
+179,181,Directed,Parent,5,Charles Lemaitre,Francoise Lemaitre,
+180,128,Directed,Parent,5,Marie Klotz,Gabriel Lemaitre,
+180,181,Directed,Parent,5,Marie Klotz,Francoise Lemaitre,
+182,73,Directed,Parent,5,Nicolas Devuailly,Marie Adelaide DeVuailly - Ferrand,
+182,127,Directed,Parent,5,Nicolas Devuailly,D. Lemaitre (Dorothee Devuailly),
+182,183,Undirected,Marriage,5,Nicolas Devuailly,Marie Gagneron,
+183,73,Directed,Parent,5,Marie Gagneron,Marie Adelaide DeVuailly - Ferrand,
+183,127,Directed,Parent,5,Marie Gagneron,D. Lemaitre (Dorothee Devuailly),
+194,2,Directed,Signatory of Marriage Contract,2,Francoise Giraud,Etienne Allemand,1764
+194,15,Directed,Signatory of Marriage Contract,2,Francoise Giraud,Francoise Ferrand,1764
+194,192,Directed,Signatory (marriage),3,Francoise Giraud,Martial Allemand (ii),1767
+194,267,Undirected,Sibling,5,Francoise Giraud,Jean Giraud (ii) (Giraud Fils),
+194,279,Undirected,Sibling,5,Francoise Giraud,Jeanne Giraud,1724
+194,428,Undirected,Sibling,5,Francoise Giraud,Jean Giraud (iii),
+195,2,Directed,Signatory of Marriage Contract,2,Rose Reze (older sister),Etienne Allemand,1764
+195,15,Directed,Signatory of Marriage Contract,2,Rose Reze (older sister),Francoise Ferrand,1764
+195,141,Directed,Godparent,4,Rose Reze (older sister),Rose Andree Marin (Rose Marin),1748
+195,142,Undirected,Sibling,5,Rose Reze (older sister),Claude Reze,
+195,287,Undirected,Sibling,5,Rose Reze (older sister),Jacques Reze,
+195,291,Directed,Godparent,4,Rose Reze (older sister),Rose Reze (iii),1730
+195,292,Undirected,Sibling,5,Rose Reze (older sister),Pierre Reze,
+197,2,Directed,Signatory of Marriage Contract,2,Jean Faure,Etienne Allemand,1764
+197,10,Directed,Parent,5,Jean Faure,Marguerite Faure,1721
+197,15,Directed,Signatory of Marriage Contract,2,Jean Faure,Francoise Ferrand,1764
+197,196,Directed,Godparent,4,Jean Faure,Jean Allemand (older),1727
+197,198,Undirected,Marriage,5,Jean Faure,Anne Allemand,
+197,199,Directed,Parent,5,Jean Faure,Jeanne Faure (iii),1736
+197,202,Directed,Parent,5,Jean Faure,Antoine Faure,
+197,263,Directed,Parent,5,Jean Faure,Jeanne Faure (ii),1729
+197,340,Directed,Parent,5,Jean Faure,Jeanne (Janne) Faure,1729
+198,10,Directed,Parent,5,Anne Allemand,Marguerite Faure,1721
+198,199,Directed,Parent,5,Anne Allemand,Jeanne Faure (iii),1736
+198,202,Directed,Parent,5,Anne Allemand,Antoine Faure,
+198,263,Directed,Parent,5,Anne Allemand,Jeanne Faure (ii),1729
+198,340,Directed,Parent,5,Anne Allemand,Jeanne (Janne) Faure,1729
+199,202,Undirected,Sibling,5,Jeanne Faure (iii),Antoine Faure,
+199,263,Undirected,Sibling,5,Jeanne Faure (iii),Jeanne Faure (ii),
+199,340,Undirected,Sibling,5,Jeanne Faure (iii),Jeanne (Janne) Faure,1736
+200,87,Directed,Parent,5,Francois Faure,Anne Faure,
+200,201,Undirected,Marriage,5,Francois Faure,Jeanne Lacour,
+201,87,Directed,Parent,5,Jeanne Lacour,Anne Faure,
+202,6,Directed,Godparent,4,Antoine Faure,Marie Allemand (ii),1743
+202,263,Undirected,Sibling,5,Antoine Faure,Jeanne Faure (ii),
+202,342,Directed,Godparent,4,Antoine Faure,Antoine Allemand,1774
+205,191,Directed,Godparent,4,Jeanne Allemand (i),Jeanne Allemand (ii),1766
+205,199,Directed,Signatory (baptism),3,Jeanne Allemand (i),Jeanne Faure (iii),1736
+205,340,Directed,Godparent,4,Jeanne Allemand (i),Jeanne (Janne) Faure,1729
+208,2,Directed,Signatory (marriage),3,Philippe Briand,Etienne Allemand,1765
+208,15,Directed,Signatory (marriage),3,Philippe Briand,Francoise Ferrand,1765
+208,75,Directed,Signatory (baptism),3,Philippe Briand,Gabriel Ferrand (younger),1764
+209,2,Directed,Signatory of Marriage Contract,2,Marie Durand,Etienne Allemand,1764
+209,15,Directed,Signatory of Marriage Contract,2,Marie Durand,Francoise Ferrand,1764
+209,239,Undirected,Marriage,5,Marie Durand,Jean-Baptiste Marchais de la Chapelle (younger),1752
+214,2,Directed,Signatory (marriage),5,Jean Guiton,Etienne Allemand,1765
+214,15,Directed,Signatory (marriage),5,Jean Guiton,Francoise Ferrand,1765
+215,2,Directed,Signatory of Marriage Contract,2,Barthelemi Thibaud,Etienne Allemand,1764
+215,15,Directed,Signatory of Marriage Contract,2,Barthelemi Thibaud,Francoise Ferrand,1764
+215,157,Directed,Godparent,4,Barthelemi Thibaud,Barthelemi Thibaud (younger),1763
+223,53,Undirected,Sibling,5,Francoise Glaumont,Jean Glaumont (Fils Aine),
+223,56,Undirected,Sibling,5,Francoise Glaumont,Philippe Glaumont,
+223,107,Undirected,Sibling,5,Francoise Glaumont,Antoine Glaumont,1742
+223,224,Undirected,Marriage,5,Francoise Glaumont,Francois Lecler,1759
+223,260,Directed,Parent,5,Francoise Glaumont,Jeanne Lecler (younger),1767
+224,54,Undirected,Sibling,5,Francois Lecler,Catherine Lecler,
+224,260,Directed,Parent,5,Francois Lecler,Jeanne Lecler (younger),1767
+225,54,Directed,Parent,5,Francois Lecler (father),Catherine Lecler,
+225,224,Directed,Parent,5,Francois Lecler (father),Francois Lecler,
+225,226,Undirected,Marriage,5,Francois Lecler (father),Marie Anne Maleron,
+226,54,Directed,Parent,5,Marie Anne Maleron,Catherine Lecler,
+226,224,Directed,Parent,5,Marie Anne Maleron,Francois Lecler,
+228,388,Undirected,Sibling,5,Pierre Monnaud,Marguerite Monnaud (ii),1745
+231,96,Directed,Parent,5,Catherine Leprince,Madeleine-Anne Gralhat Fonchaudiere,
+231,123,Undirected,Marriage,5,Catherine Leprince,Jacques Gralhat,
+232,95,Directed,Parent,5,Jean Chaignaud de la Graviere,Jean-Baptiste Chaigneau Fonchaudiere,
+232,233,Undirected,Marriage,5,Jean Chaignaud de la Graviere,Dame Marie de Nesmond,
+233,95,Directed,Parent,5,Dame Marie de Nesmond,Jean-Baptiste Chaigneau Fonchaudiere,
+235,1,Directed,Parent,5,Francois Allemand,Allemand Pere (Marc Allemand),1698
+235,236,Undirected,Marriage,5,Francois Allemand,Catherine Legrand ,
+236,1,Directed,Parent,5,Catherine Legrand ,Allemand Pere (Marc Allemand),1698
+237,2,Directed,Signatory of Marriage Contract,2,Marie Anne Josephe Genevieve de Chaumont-Gautier,Etienne Allemand,1764
+237,15,Directed,Signatory of Marriage Contract,2,Marie Anne Josephe Genevieve de Chaumont-Gautier,Francoise Ferrand,1764
+237,238,Undirected,Marriage,5,Marie Anne Josephe Genevieve de Chaumont-Gautier,Jean Gautier,1747
+245,147,Directed,Parent,5,Jean Monnaud,M. Monaud (Marguerite Monneau/Monnaud),1732
+245,228,Directed,Parent,5,Jean Monnaud,Pierre Monnaud,1733
+245,246,Undirected,Marriage,5,Jean Monnaud,Marguerite Viand,
+245,388,Directed,Parent,5,Jean Monnaud,Marguerite Monnaud (ii),1745
+246,147,Directed,Parent,5,Marguerite Viand,M. Monaud (Marguerite Monneau/Monnaud),
+246,228,Directed,Parent,5,Marguerite Viand,Pierre Monnaud,1733
+246,388,Directed,Parent,5,Marguerite Viand,Marguerite Monnaud (ii),1745
+249,93,Undirected,Marriage,5,Elizabeth Boutoute,Jean-Baptiste Ferrand,
+250,17,Directed,Parent,5,Francois Bonnard,Marie Bonnard,1741
+250,404,Directed,Parent,5,Francois Bonnard,Marie Bonnard (ii),1729
+250,406,Directed,Parent,5,Francois Bonnard,Jean Bonnard,
+252,3,Directed,Parent,5,Suzanne Dufort,Marie Giraud,
+252,253,Directed,Parent,5,Suzanne Dufort,Pierre Giraud,1716
+253,2,Directed,Signatory of Marriage Contract,2,Pierre Giraud,Etienne Allemand,1764
+253,15,Directed,Signatory of Marriage Contract,2,Pierre Giraud,Francoise Ferrand,1764
+253,76,Directed,Godparent,4,Pierre Giraud,Pierre Allemand,1768
+254,2,Directed,Signatory of Marriage Contract,2,Michel Albert,Etienne Allemand,1764
+254,15,Directed,Signatory of Marriage Contract,2,Michel Albert,Francoise Ferrand,1764
+254,163,Undirected,Marriage,5,Michel Albert,Marie Tilhard,1751
+254,259,Directed,Godparent,4,Michel Albert,Marie Chassereau,1750
+255,2,Directed,Signatory of Marriage Contract,2,Michel Albert (father),Etienne Allemand,1764
+255,15,Directed,Signatory of Marriage Contract,2,Michel Albert (father),Francoise Ferrand,1764
+255,78,Directed,Signatory (marriage),3,Michel Albert (father),Francois Dumergue,1733
+255,147,Directed,Signatory (marriage),3,Michel Albert (father),M. Monaud (Marguerite Monneau/Monnaud),1733
+255,254,Directed,Parent,5,Michel Albert (father),Michel Albert,
+255,256,Undirected,Marriage,5,Michel Albert (father),Francoise Belle,
+255,259,Directed,Signatory (baptism),3,Michel Albert (father),Marie Chassereau,1750
+256,254,Directed,Parent,5,Francoise Belle,Michel Albert,
+257,163,Directed,Parent,5,Pierre Tilhard,Marie Tilhard,
+257,258,Undirected,Marriage,5,Pierre Tilhard,Jeanne Romand,
+258,163,Directed,Parent,5,Jeanne Romand,Marie Tilhard,
+263,340,Undirected,Sibling,5,Jeanne Faure (ii),Jeanne (Janne) Faure,1729
+264,18,Directed,Parent,5,Marc Godinaud,Jean Godinaud,1731
+264,120,Directed,Parent,5,Marc Godinaud,Marguerite Godinaud,1741
+264,121,Directed,Parent,5,Marc Godinaud,Pierre Godinaud,1727
+265,18,Directed,Parent,5,Marie Robert,Jean Godinaud,1731
+265,120,Directed,Parent,5,Marie Robert,Marguerite Godinaud,1741
+265,121,Directed,Parent,5,Marie Robert,Pierre Godinaud,1727
+265,264,Undirected,Marriage,5,Marie Robert,Marc Godinaud,
+266,18,Directed,Godparent,4,Marie Maturine Robert,Jean Godinaud,1731
+267,2,Directed,Signatory of Marriage Contract,2,Jean Giraud (ii) (Giraud Fils),Etienne Allemand,1764
+267,15,Directed,Signatory of Marriage Contract,2,Jean Giraud (ii) (Giraud Fils),Francoise Ferrand,1764
+267,279,Undirected,Sibling,5,Jean Giraud (ii) (Giraud Fils),Jeanne Giraud,1737
+267,428,Undirected,Sibling,5,Jean Giraud (ii) (Giraud Fils),Jean Giraud (iii),
+268,1,Directed,Godparent,4,Marc Bourdage,Allemand Pere (Marc Allemand),1698
+274,389,Undirected,Sibling,5,Jean Dumergue (iii),Marthe Dumergue,
+275,85,Undirected,Marriage,5,Marie Guimard,Louis Dupard,
+275,276,Directed,Parent,5,Marie Guimard,Marc Dupard,1757
+275,330,Directed,Parent,5,Marie Guimard,Marguerite Dupard,1756
+276,330,Undirected,Sibling,5,Marc Dupard,Marguerite Dupard,1757
+278,74,Directed,Godparent,4,Gabriel Boisdon,Gabriel Ferrand,1738
+279,428,Undirected,Sibling,5,Jeanne Giraud,Jean Giraud (iii),
+280,102,Directed,Parent,5,Jean Glaumont (father),Magdelaine Glaumont (ii),1708
+280,106,Directed,Parent,5,Jean Glaumont (father),Jean Glaumont,
+280,175,Directed,Parent,5,Jean Glaumont (father),Jeanne Glaumont,
+280,281,Undirected,Marriage,5,Jean Glaumont (father),Madelaine Allemand,
+281,102,Directed,Parent,5,Madelaine Allemand,Magdelaine Glaumont (ii),1708
+281,106,Directed,Parent,5,Madelaine Allemand,Jean Glaumont,
+281,175,Directed,Parent,5,Madelaine Allemand,Jeanne Glaumont,
+281,355,Directed,Godparent,4,Madelaine Allemand,Magdelaine Glaumont,1734
+281,401,Directed,Signatory (burial),3,Madelaine Allemand,Jeanne Yvroix,1738
+287,142,Directed,Parent,5,Jacques Reze,Claude Reze,1725
+287,291,Directed,Parent,5,Jacques Reze,Rose Reze (iii),1730
+287,292,Undirected,Sibling,5,Jacques Reze,Pierre Reze,
+288,2,Directed,Signatory of Marriage Contract,2,Jean Joubert,Etienne Allemand,1764
+288,10,Directed,Signatory (baptism),3,Jean Joubert,Marguerite Faure,1721
+288,15,Directed,Signatory of Marriage Contract,2,Jean Joubert,Francoise Ferrand,1764
+288,333,Directed,Parent,5,Jean Joubert,Marc Joubert,1757
+288,373,Undirected,Sibling,5,Jean Joubert,Francois Joubert,
+288,375,Directed,Parent,5,Jean Joubert,Jean Joubert (iii),1754
+295,51,Directed,Parent,5,Jean Barathe,Marguerite Barathe,1699
+295,296,Undirected,Marriage,5,Jean Barathe,Francoise Vacher,
+296,51,Directed,Parent,5,Francoise Vacher,Marguerite Barathe,1699
+297,51,Directed,Godparent,4,Jean Boilevin,Marguerite Barathe,1699
+299,51,Directed,Godparent,4,Marguerite Lemoing,Marguerite Barathe,1699
+302,12,Directed,Parent,5,Barthelemy Bourdage,Elizabeth Bourdage,1705
+302,303,Undirected,Marriage,5,Barthelemy Bourdage,Marguerite Salat,
+303,12,Directed,Parent,5,Marguerite Salat,Elizabeth Bourdage,1705
+304,12,Directed,Godparent,4,Francois Couvrefaud,Elizabeth Bourdage,1705
+305,12,Directed,Godparent,4,Elisabeth Lespine,Elizabeth Bourdage,1705
+306,52,Directed,Parent,5,Francois Chabot,Catherine Chabot,1724
+306,57,Directed,Parent,5,Francois Chabot,Jeanne Chabot,1725
+306,307,Undirected,Marriage,5,Francois Chabot,Rose Lecler,
+307,57,Directed,Parent,5,Rose Lecler,Jeanne Chabot,1725
+312,139,Directed,Godparent,4,Marie Faure,Marie Claude,1743
+313,139,Undirected,Half Sibling,4,Marie Claude,Marie Claude,1750
+313,316,Undirected,Half Sibling,4,Marie Claude,Daufinete (Pierre Claude),1750
+316,2,Directed,Signatory of Marriage Contract,2,Daufinete (Pierre Claude),Etienne Allemand,1764
+316,15,Directed,Signatory of Marriage Contract,2,Daufinete (Pierre Claude),Francoise Ferrand,1764
+316,73,Directed,Signatory (marriage),3,Daufinete (Pierre Claude),Marie Adelaide DeVuailly - Ferrand,1763
+316,74,Directed,Signatory (marriage),3,Daufinete (Pierre Claude),Gabriel Ferrand,1763
+321,10,Directed,Signatory (baptism),3,Jean Dumergue (ii),Marguerite Faure,1721
+321,77,Directed,Parent,5,Jean Dumergue (ii),Jean Dumergue,1725
+321,78,Directed,Parent,5,Jean Dumergue (ii),Francois Dumergue,1733
+321,103,Undirected,Marriage,5,Jean Dumergue (ii),Elizabeth Glaumont (ii),
+322,244,Undirected,Sibling,5,Pierre Marchais (iii),Magdelaine Marchais,1742
+333,375,Undirected,Sibling,5,Marc Joubert,Jean Joubert (iii),1757
+336,288,Directed,Parent,5,Jean Joubert (ii),Jean Joubert,
+336,337,Undirected,Marriage,5,Jean Joubert (ii),Marie Touret,
+336,373,Directed,Parent,5,Jean Joubert (ii),Francois Joubert,
+337,288,Directed,Parent,5,Marie Touret,Jean Joubert,
+337,373,Directed,Parent,5,Marie Touret,Francois Joubert,
+340,2,Directed,Signatory of Marriage Contract,2,Jeanne (Janne) Faure,Etienne Allemand,1764
+340,10,Undirected,Sibling,5,Jeanne (Janne) Faure,Marguerite Faure,1729
+340,15,Directed,Signatory of Marriage Contract,2,Jeanne (Janne) Faure,Francoise Ferrand,1764
+341,10,Directed,Godparent,4,Marguerite Roger,Marguerite Faure,1721
+349,194,Directed,Godparent,4,Pierre Ribere,Francoise Giraud,1724
+350,194,Directed,Godparent,4,Marie Dumergue,Francoise Giraud,1724
+355,2,Directed,Signatory of Marriage Contract,2,Magdelaine Glaumont,Etienne Allemand,1764
+355,15,Directed,Signatory of Marriage Contract,2,Magdelaine Glaumont,Francoise Ferrand,1764
+355,53,Undirected,Sibling,5,Magdelaine Glaumont,Jean Glaumont (Fils Aine),
+355,56,Undirected,Sibling,5,Magdelaine Glaumont,Philippe Glaumont,
+355,107,Undirected,Sibling,5,Magdelaine Glaumont,Antoine Glaumont,
+355,223,Undirected,Sibling,5,Magdelaine Glaumont,Francoise Glaumont,
+358,355,Directed,Godparent,4,Jean Iandron,Magdelaine Glaumont,1734
+365,367,Directed,Parent,5,Magdelaine Godinaud,Jeanne Ferrand,1778
+369,2,Directed,Signatory of Marriage Contract,2,Guimard (Guillaume?),Etienne Allemand,1764
+369,15,Directed,Signatory of Marriage Contract,2,Guimard (Guillaume?),Francoise Ferrand,1764
+380,133,Undirected,Sibling,5,Antoine Marchais,Marguerite Marchais,
+382,136,Undirected,Marriage,5,Pechillon de la Borderie,Marthe Marchais,1762
+386,141,Directed,Godparent,4,Jean Tigrand,Rose Andree Marin (Rose Marin),1748
+387,141,Undirected,Marriage,5,Pierre Corliet Coursac,Rose Andree Marin (Rose Marin),1793
+389,390,Undirected,Marriage,5,Marthe Dumergue,Louis Felix,1799
+393,156,Undirected,Marriage,5,Francoise Chabaribeire,Matthieu Thibaud,
+393,157,Directed,Parent,5,Francoise Chabaribeire,Barthelemi Thibaud (younger),1763
+399,164,Directed,Parent,5,Francois Vinsac (ii),Mauricete Vinsac,1732
+399,400,Undirected,Marriage,5,Francois Vinsac (ii),Mauricette Pelard,1730
+400,164,Directed,Parent,5,Mauricette Pelard,Mauricete Vinsac,1732
+404,17,Undirected,Half Sibling,4,Marie Bonnard (ii),Marie Bonnard,1741
+404,406,Directed,Signatory (marriage),3,Marie Bonnard (ii),Jean Bonnard,1767
+405,17,Directed,Parent,5,Marguerite Charpentier,Marie Bonnard,1741
+405,250,Undirected,Marriage,5,Marguerite Charpentier,Francois Bonnard,
+405,406,Directed,Parent,5,Marguerite Charpentier,Jean Bonnard,
+406,17,Undirected,Sibling,5,Jean Bonnard,Marie Bonnard,
+422,84,Directed,Godparent to Child of,4,Marc Rene Lefort Latour,Marguerite Durousot,
+422,288,Directed,Godparent to Child of,4,Marc Rene Lefort Latour,Jean Joubert,
+425,6,Directed,Godparent,4,Francois Guillot,Marie Allemand (ii),1730
+426,6,Directed,Godparent,4,Emerie Fouqueux,Marie Allemand (ii),1730
+347,267,Directed,Godparent,4,Jean Challais,Jean Giraud (ii) (Giraud Fils),1737
+348,267,Directed,Godparent,4,Marianne Raymond,Jean Giraud (ii) (Giraud Fils),1737
+429,2,Directed,Signatory of Marriage Contract,2,Yrvoix (Philippe),Etienne Allemand,1764
+429,15,Directed,Signatory of Marriage Contract,2,Yrvoix (Philippe),Francoise Ferrand,1764
+429,430,Undirected,Marriage,5,Yrvoix (Philippe),Francois Ferrand,
+429,431,Directed,Parent,5,Yrvoix (Philippe),Mathurin Ferrand,1737
+429,434,Directed,Parent,5,Yrvoix (Philippe),Jean Ferrand,1726
+429,438,Directed,Parent,5,Yrvoix (Philippe),Marie Allemand (iii),1739
+430,431,Directed,Parent,5,Francois Ferrand,Mathurin Ferrand,1737
+430,434,Directed,Parent,5,Francois Ferrand,Jean Ferrand,1726
+430,438,Directed,Parent,5,Francois Ferrand,Marie Allemand (iii),1739
+431,434,Undirected,Sibling,5,Mathurin Ferrand,Jean Ferrand,
+431,438,Undirected,Sibling,5,Mathurin Ferrand,Marie Allemand (iii),1739
+431,439,Undirected,Sibling,5,Mathurin Ferrand,Jeanne Allemand (iv),
+434,438,Directed,Sibling; Godparent,5,Jean Ferrand,Marie Allemand (iii),1739
+439,434,Undirected,Sibling,5,Jeanne Allemand (iv),Jean Ferrand,
+439,438,Directed,Sibling; Godparent,5,Jeanne Allemand (iv),Marie Allemand (iii),1739
+91,430,Directed,Parent,5,Louis Ferrand,Francois Ferrand,1742
+92,430,Directed,Parent,5,Marie Aymard,Francois Ferrand,1742
+430,15,Undirected,Sibling,5,Francois Ferrand,Francoise Ferrand,1742
+430,74,Undirected,Sibling,5,Francois Ferrand,Gabriel Ferrand,1742
+430,93,Undirected,Sibling,5,Francois Ferrand,Jean-Baptiste Ferrand,1742
+91,431,Directed,Parent,5,Louis Ferrand,Mathurin Ferrand,1743
+92,431,Directed,Parent,5,Marie Aymard,Mathurin Ferrand,1743
+431,15,Undirected,Sibling,5,Mathurin Ferrand,Francoise Ferrand,1743
+431,74,Undirected,Sibling,5,Mathurin Ferrand,Gabriel Ferrand,1743
+431,93,Undirected,Sibling,5,Mathurin Ferrand,Jean-Baptiste Ferrand,1743
+431,430,Undirected,Sibling,5,Mathurin Ferrand,Francois Ferrand,1743
+91,432,Directed,Parent,5,Louis Ferrand,Marguerite Ferrand,1744
+92,432,Directed,Parent,5,Marie Aymard,Marguerite Ferrand,1744
+432,15,Undirected,Sibling,5,Marguerite Ferrand,Francoise Ferrand,1744
+432,74,Undirected,Sibling,5,Marguerite Ferrand,Gabriel Ferrand,1744
+432,93,Undirected,Sibling,5,Marguerite Ferrand,Jean-Baptiste Ferrand,1744
+432,430,Undirected,Sibling,5,Marguerite Ferrand,Francois Ferrand,1744
+73,433,Directed,Parent,5,Marie Adelaide DeVuailly - Ferrand,Etienne Ferrand,1766
+74,433,Directed,Parent,5,Gabriel Ferrand,Etienne Ferrand,1766
+433,75,Undirected,Sibling,5,Etienne Ferrand,Gabriel Ferrand (younger),1766
+73,434,Directed,Parent,5,Marie Adelaide DeVuailly - Ferrand,Jean Ferrand,1766
+74,434,Directed,Parent,5,Gabriel Ferrand,Jean Ferrand,1766
+434,75,Undirected,Sibling,5,Jean Ferrand,Gabriel Ferrand (younger),1766
+434,433,Undirected,Sibling,5,Jean Ferrand,Etienne Ferrand,1766
+73,435,Directed,Parent,5,Marie Adelaide DeVuailly - Ferrand,Jean-Francois Ferrand,1768
+74,435,Directed,Parent,5,Gabriel Ferrand,Jean-Francois Ferrand,1768
+435,75,Undirected,Sibling,5,Jean-Francois Ferrand,Gabriel Ferrand (younger),1768
+435,433,Undirected,Sibling,5,Jean-Francois Ferrand,Etienne Ferrand,1768
+435,434,Undirected,Sibling,5,Jean-Francois Ferrand,Jean Ferrand,1768
+73,436,Directed,Parent,5,Marie Adelaide DeVuailly - Ferrand,Joseph-Marie Ferrand,1770
+74,436,Directed,Parent,5,Gabriel Ferrand,Joseph-Marie Ferrand,1770
+436,75,Undirected,Sibling,5,Joseph-Marie Ferrand,Gabriel Ferrand (younger),1770
+436,433,Undirected,Sibling,5,Joseph-Marie Ferrand,Etienne Ferrand,1770
+436,434,Undirected,Sibling,5,Joseph-Marie Ferrand,Jean Ferrand,1770
+436,435,Undirected,Sibling,5,Joseph-Marie Ferrand,Jean-Francois Ferrand,1770
+73,437,Directed,Parent,5,Marie Adelaide DeVuailly - Ferrand,Pierre-Alexandre Ferrand,1775
+74,437,Directed,Parent,5,Gabriel Ferrand,Pierre-Alexandre Ferrand,1775
+437,75,Undirected,Sibling,5,Pierre-Alexandre Ferrand,Gabriel Ferrand (younger),1775
+437,433,Undirected,Sibling,5,Pierre-Alexandre Ferrand,Etienne Ferrand,1775
+437,434,Undirected,Sibling,5,Pierre-Alexandre Ferrand,Jean Ferrand,1775
+437,435,Undirected,Sibling,5,Pierre-Alexandre Ferrand,Jean-Francois Ferrand,1775
+437,436,Undirected,Sibling,5,Pierre-Alexandre Ferrand,Joseph-Marie Ferrand,1775
+2,438,Directed,Parent,5,Etienne Allemand,Marie Allemand (iii),1765
+15,438,Directed,Parent,5,Francoise Ferrand,Marie Allemand (iii),1765
+191,438,Undirected,Sibling,5,Jeanne Allemand (ii),Marie Allemand (iii),1766
+423,438,Undirected,Sibling,5,Martial Allemand (ii),Marie Allemand (iii),1767
+423,191,Undirected,Sibling,5,Martial Allemand (ii),Jeanne Allemand (ii),1767
+94,191,Undirected,Sibling,5,Jeanne Allemand (iii),Jeanne Allemand (ii),1768
+94,438,Undirected,Sibling,5,Jeanne Allemand (iii),Marie Allemand (iii),1768
+94,423,Undirected,Sibling,5,Jeanne Allemand (iii),Martial Allemand (ii),1768
+76,94,Undirected,Sibling,5,Pierre Allemand,Jeanne Allemand (iii),1769
+76,191,Undirected,Sibling,5,Pierre Allemand,Jeanne Allemand (ii),1769
+76,438,Undirected,Sibling,5,Pierre Allemand,Marie Allemand (iii),1769
+76,423,Undirected,Sibling,5,Pierre Allemand,Martial Allemand (ii),1769
+2,439,Directed,Parent,5,Etienne Allemand,Jeanne Allemand (iv),1770
+15,439,Directed,Parent,5,Francoise Ferrand,Jeanne Allemand (iv),1770
+439,94,Undirected,Sibling,5,Jeanne Allemand (iv),Jeanne Allemand (iii),1770
+439,191,Undirected,Sibling,5,Jeanne Allemand (iv),Jeanne Allemand (ii),1770
+439,438,Undirected,Sibling,5,Jeanne Allemand (iv),Marie Allemand (iii),1770
+439,423,Undirected,Sibling,5,Jeanne Allemand (iv),Martial Allemand (ii),1770
+439,76,Undirected,Sibling,5,Jeanne Allemand (iv),Pierre Allemand,1770
+2,440,Directed,Parent,5,Etienne Allemand,Jeanne Henriette Allemand,1771
+15,440,Directed,Parent,5,Francoise Ferrand,Jeanne Henriette Allemand,1771
+440,94,Undirected,Sibling,5,Jeanne Henriette Allemand,Jeanne Allemand (iii),1771
+440,191,Undirected,Sibling,5,Jeanne Henriette Allemand,Jeanne Allemand (ii),1771
+440,438,Undirected,Sibling,5,Jeanne Henriette Allemand,Marie Allemand (iii),1771
+440,423,Undirected,Sibling,5,Jeanne Henriette Allemand,Martial Allemand (ii),1771
+440,76,Undirected,Sibling,5,Jeanne Henriette Allemand,Pierre Allemand,1771
+440,439,Undirected,Sibling,5,Jeanne Henriette Allemand,Jeanne Allemand (iv),1771
+2,441,Directed,Parent,5,Etienne Allemand,Jeanne Allemand (v),1773
+15,441,Directed,Parent,5,Francoise Ferrand,Jeanne Allemand (v),1773
+441,94,Undirected,Sibling,5,Jeanne Allemand (v),Jeanne Allemand (iii),1773
+441,191,Undirected,Sibling,5,Jeanne Allemand (v),Jeanne Allemand (ii),1773
+441,438,Undirected,Sibling,5,Jeanne Allemand (v),Marie Allemand (iii),1773
+441,423,Undirected,Sibling,5,Jeanne Allemand (v),Martial Allemand (ii),1773
+441,76,Undirected,Sibling,5,Jeanne Allemand (v),Pierre Allemand,1773
+441,439,Undirected,Sibling,5,Jeanne Allemand (v),Jeanne Allemand (iv),1773
+441,440,Undirected,Sibling,5,Jeanne Allemand (v),Jeanne Henriette Allemand,1773
+342,94,Undirected,Sibling,5,Antoine Allemand,Jeanne Allemand (iii),1774
+342,191,Undirected,Sibling,5,Antoine Allemand,Jeanne Allemand (ii),1774
+342,438,Undirected,Sibling,5,Antoine Allemand,Marie Allemand (iii),1774
+342,423,Undirected,Sibling,5,Antoine Allemand,Martial Allemand (ii),1774
+342,76,Undirected,Sibling,5,Antoine Allemand,Pierre Allemand,1774
+342,439,Undirected,Sibling,5,Antoine Allemand,Jeanne Allemand (iv),1774
+342,440,Undirected,Sibling,5,Antoine Allemand,Jeanne Henriette Allemand,1774
+342,441,Undirected,Sibling,5,Antoine Allemand,Jeanne Allemand (v),1774
+2,443,Directed,Parent,5,Etienne Allemand,Marie Francoise Allemand ,1778
+15,443,Directed,Parent,5,Francoise Ferrand,Marie Francoise Allemand ,1778
+443,94,Undirected,Sibling,5,Marie Francoise Allemand ,Jeanne Allemand (iii),1778
+443,191,Undirected,Sibling,5,Marie Francoise Allemand ,Jeanne Allemand (ii),1778
+443,438,Undirected,Sibling,5,Marie Francoise Allemand ,Marie Allemand (iii),1778
+443,423,Undirected,Sibling,5,Marie Francoise Allemand ,Martial Allemand (ii),1778
+443,76,Undirected,Sibling,5,Marie Francoise Allemand ,Pierre Allemand,1778
+443,439,Undirected,Sibling,5,Marie Francoise Allemand ,Jeanne Allemand (iv),1778
+443,440,Undirected,Sibling,5,Marie Francoise Allemand ,Jeanne Henriette Allemand,1778
+443,441,Undirected,Sibling,5,Marie Francoise Allemand ,Jeanne Allemand (v),1778
+443,342,Undirected,Sibling,5,Marie Francoise Allemand ,Antoine Allemand,1778
+2,444,Directed,Parent,5,Etienne Allemand,Josephe Allemand,1779
+15,444,Directed,Parent,5,Francoise Ferrand,Josephe Allemand,1779
+444,94,Undirected,Sibling,5,Josephe Allemand,Jeanne Allemand (iii),1779
+444,191,Undirected,Sibling,5,Josephe Allemand,Jeanne Allemand (ii),1779
+444,438,Undirected,Sibling,5,Josephe Allemand,Marie Allemand (iii),1779
+444,423,Undirected,Sibling,5,Josephe Allemand,Martial Allemand (ii),1779
+444,76,Undirected,Sibling,5,Josephe Allemand,Pierre Allemand,1779
+444,439,Undirected,Sibling,5,Josephe Allemand,Jeanne Allemand (iv),1779
+444,440,Undirected,Sibling,5,Josephe Allemand,Jeanne Henriette Allemand,1779
+444,441,Undirected,Sibling,5,Josephe Allemand,Jeanne Allemand (v),1779
+444,342,Undirected,Sibling,5,Josephe Allemand,Antoine Allemand,1779
+444,443,Undirected,Sibling,5,Josephe Allemand,Marie Francoise Allemand ,1779
+2,445,Directed,Parent,5,Etienne Allemand,Etienne Allemand (iii),1781
+15,445,Directed,Parent,5,Francoise Ferrand,Etienne Allemand (iii),1781
+445,94,Undirected,Sibling,5,Etienne Allemand (iii),Jeanne Allemand (iii),1781
+445,191,Undirected,Sibling,5,Etienne Allemand (iii),Jeanne Allemand (ii),1781
+445,438,Undirected,Sibling,5,Etienne Allemand (iii),Marie Allemand (iii),1781
+445,423,Undirected,Sibling,5,Etienne Allemand (iii),Martial Allemand (ii),1781
+445,76,Undirected,Sibling,5,Etienne Allemand (iii),Pierre Allemand,1781
+445,439,Undirected,Sibling,5,Etienne Allemand (iii),Jeanne Allemand (iv),1781
+445,440,Undirected,Sibling,5,Etienne Allemand (iii),Jeanne Henriette Allemand,1781
+445,441,Undirected,Sibling,5,Etienne Allemand (iii),Jeanne Allemand (v),1781
+445,342,Undirected,Sibling,5,Etienne Allemand (iii),Antoine Allemand,1781
+445,443,Undirected,Sibling,5,Etienne Allemand (iii),Marie Francoise Allemand ,1781
+445,444,Undirected,Sibling,5,Etienne Allemand (iii),Josephe Allemand,1781
+2,446,Directed,Parent,5,Etienne Allemand,Louise Melanie Allemand,1783
+15,446,Directed,Parent,5,Francoise Ferrand,Louise Melanie Allemand,1783
+446,94,Undirected,Sibling,5,Louise Melanie Allemand,Jeanne Allemand (iii),1783
+446,191,Undirected,Sibling,5,Louise Melanie Allemand,Jeanne Allemand (ii),1783
+446,438,Undirected,Sibling,5,Louise Melanie Allemand,Marie Allemand (iii),1783
+446,423,Undirected,Sibling,5,Louise Melanie Allemand,Martial Allemand (ii),1783
+446,76,Undirected,Sibling,5,Louise Melanie Allemand,Pierre Allemand,1783
+446,439,Undirected,Sibling,5,Louise Melanie Allemand,Jeanne Allemand (iv),1783
+446,440,Undirected,Sibling,5,Louise Melanie Allemand,Jeanne Henriette Allemand,1783
+446,441,Undirected,Sibling,5,Louise Melanie Allemand,Jeanne Allemand (v),1783
+446,342,Undirected,Sibling,5,Louise Melanie Allemand,Antoine Allemand,1783
+446,443,Undirected,Sibling,5,Louise Melanie Allemand,Marie Francoise Allemand ,1783
+446,444,Undirected,Sibling,5,Louise Melanie Allemand,Josephe Allemand,1783
+446,445,Undirected,Sibling,5,Louise Melanie Allemand,Etienne Allemand (iii),1783
+93,447,Directed,Parent,5,Jean-Baptiste Ferrand,Martial Ferrand,1775
+249,447,Directed,Parent,5,Elizabeth Boutoute,Martial Ferrand,1775
+93,448,Directed,Parent,5,Jean-Baptiste Ferrand,Francoise Ferrand (ii),1777
+249,448,Directed,Parent,5,Elizabeth Boutoute,Francoise Ferrand (ii),1777
+447,448,Undirected,Sibling,5,Martial Ferrand,Francoise Ferrand (ii),1777
+195,450,Directed,Godparent; Aunt,4,Rose Reze (older sister),Jeanne Rose Reze,1735
+451,77,Undirected,Sibling,5,Louis Dumergue,Jean Dumergue,1726
+321,451,Directed,Parent,5,Jean Dumergue (ii),Louis Dumergue,1726
+103,451,Directed,Parent,5,Elizabeth Glaumont (ii),Louis Dumergue,1726
+321,350,Directed,Parent,5,Jean Dumergue (ii),Marie Dumergue,1727
+103,350,Directed,Parent,5,Elizabeth Glaumont (ii),Marie Dumergue,1727
+350,451,Undirected,Sibling,5,Marie Dumergue,Louis Dumergue,1727
+350,77,Undirected,Sibling,5,Marie Dumergue,Jean Dumergue,1727
+321,452,Directed,Parent,5,Jean Dumergue (ii),Pierre Dumergue,1730
+103,452,Directed,Parent,5,Elizabeth Glaumont (ii),Pierre Dumergue,1730
+452,451,Undirected,Sibling,5,Pierre Dumergue,Louis Dumergue,1730
+452,77,Undirected,Sibling,5,Pierre Dumergue,Jean Dumergue,1730
+452,350,Undirected,Sibling,5,Pierre Dumergue,Marie Dumergue,1730
+78,451,Undirected,Sibling,5,Francois Dumergue,Louis Dumergue,1733
+78,350,Undirected,Sibling,5,Francois Dumergue,Marie Dumergue,1733
+78,452,Undirected,Sibling,5,Francois Dumergue,Pierre Dumergue,1733
+255,78,Directed,Godparent,4,Michel Albert (father),Francois Dumergue,1733
+8,313,Directed,Godparent,4,Marie Allemand,Marie Claude,1750
+236,196,Directed,Godparent,4,Catherine Legrand ,Jean Allemand (older),1727
+453,52,Directed,Godparent,4,Jean Roy (ii),Catherine Chabot,1724
+454,52,Directed,Godparent,4,Catherine Gratereau,Catherine Chabot,1724
+455,57,Directed,Godparent,4,Francois Gratereau,Jeanne Chabot,1725
+456,57,Directed,Godparent,4,Jeanne Lecler,Jeanne Chabot,1725
+139,457,Undirected,Sibling,5,Marie Claude,Marc Claude,1735
+316,457,Undirected,Sibling,5,Daufinete (Pierre Claude),Marc Claude,1735
+313,457,Undirected,Sibling,5,Marie Claude,Marc Claude,1735
+66,457,Directed,Parent,5,Jean Claude dit Daufinete,Marc Claude,1735
+67,457,Directed,Parent,5,Marguerite Allemand,Marc Claude,1735
+1,457,Directed,Godparent,4,Allemand Pere (Marc Allemand),Marc Claude,1735
+60,136,Directed,Parent,5,Jean-Baptiste Marchais de la Chapelle,Marthe Marchais,
+10,192,Directed,Signatory,3,Marguerite Faure,Martial Allemand (ii),1767
+1,438,Directed,Godparent,4,Allemand Pere (Marc Allemand),Marie Allemand (iii),1765
+92,438,Directed,Godparent,4,Marie Aymard,Marie Allemand (iii),1765
+192,458,Directed,Godparent,4,Martial Allemand (ii),Etienne Allemand (ii),1767
+432,458,Directed,Godparent,4,Marguerite Ferrand,Etienne Allemand (ii),1767
+205,94,Directed,Godparent,4,Jeanne Allemand (i),Jeanne Allemand (iii),1768
+459,434,Directed,Godparent,4,Jean Paranteau,Jean Ferrand,1770
+460,434,Directed,Godparent,4,Jeanne Dumontet,Jean Ferrand,1770
+75,440,Directed,Godparent,4,Gabriel Ferrand (younger),Jeanne Henriette Allemand,1771
+75,443,Directed,Godparent,4,Gabriel Ferrand (younger),Marie Francoise Allemand ,1778
+463,444,Directed,Godparent,4,Marie Catherine Mandrou veuve Berthoumieu,Josephe Allemand,1779
+464,444,Directed,Godparent,4,Pierre Labatud,Josephe Allemand,1779
+433,445,Directed,Godparent,4,Etienne Ferrand,Etienne Allemand (iii),1781
+465,446,Directed,Godparent,4,Francois Louis Thomas de Bardines,Louise Melanie Allemand,1783
+466,446,Directed,Godparent,4,Marie Claire Melanie de Manes,Louise Melanie Allemand,1783
+182,75,Directed,Godparent,4,Nicolas Devuailly,Gabriel Ferrand (younger),1764
+92,75,Directed,Godparent,4,Marie Aymard,Gabriel Ferrand (younger),1764
+208,75,Directed,Signatory,3,Philippe Briand,Gabriel Ferrand (younger),1764
+128,75,Directed,Signatory,3,Gabriel Lemaitre,Gabriel Ferrand (younger),1764
+2,433,Directed,Godparent,4,Etienne Allemand,Etienne Ferrand,1766
+183,433,Directed,Godparent,4,Marie Gagneron,Etienne Ferrand,1766
+432,434,Directed,Godparent,4,Marguerite Ferrand,Jean Ferrand,1768
+93,434,Directed,Godparent,4,Jean-Baptiste Ferrand,Jean Ferrand,1768
+467,437,Directed,Godparent,4,Pierre Alexandre Rondeau,Pierre-Alexandre Ferrand,1775
+468,437,Directed,Godparent,4,Marie Nadault,Pierre-Alexandre Ferrand,1775
+469,15,Directed,Godparent,4,Pierre Lavaud,Francoise Ferrand,1740
+470,15,Directed,Godparent,4,Francoise Lacoste,Francoise Ferrand,1740
+312,431,Directed,Godparent,4,Marie Faure,Mathurin Ferrand,1743
+471,93,Directed,Godparent,4,Jean Sartre,Jean-Baptiste Ferrand,1749
+461,443,Directed,Godparent,4,Pierre Louis Martin Grand de Luxolliere,Marie Francoise Allemand ,1778
+462,443,Directed,Godparent,4,Marie Francoise Grand de Luxolliere,Marie Francoise Allemand ,1778
+461,462,Undirected,sibling,5,Pierre Louis Martin Grand de Luxolliere,Marie Francoise Grand de Luxolliere,
+472,45,Undirected,Marriage,5,Jacques Nadaud,Marie Charas (Tabourin),1772
+79,473,Directed,Parent,5,Magdelaine Dumergue,Marie Marguerite Marchais,1731
+80,473,Directed,Parent,5,Pierre Marchais,Marie Marguerite Marchais,1731
+244,473,Undirected,Sibling,5,Magdelaine Marchais,Marie Marguerite Marchais,
+322,473,Undirected,Sibling,5,Pierre Marchais (iii),Marie Marguerite Marchais,
+79,474,Directed,Parent,5,Magdelaine Dumergue,Marie Magdelaine Marchais,1739
+80,474,Directed,Parent,5,Pierre Marchais,Marie Magdelaine Marchais,1739
+244,474,Undirected,Sibling,5,Magdelaine Marchais,Marie Magdelaine Marchais,
+322,474,Undirected,Sibling,5,Pierre Marchais (iii),Marie Magdelaine Marchais,
+473,474,Undirected,Sibling,5,Marie Marguerite Marchais,Marie Magdelaine Marchais,1739
+79,475,Directed,Parent,5,Magdelaine Dumergue,Philippe Marchais,1735
+80,475,Directed,Parent,5,Pierre Marchais,Philippe Marchais,1735
+244,475,Undirected,Sibling,5,Magdelaine Marchais,Philippe Marchais,
+322,475,Undirected,Sibling,5,Pierre Marchais (iii),Philippe Marchais,
+473,475,Undirected,Sibling,5,Marie Marguerite Marchais,Philippe Marchais,1735
+474,475,Undirected,Sibling,5,Marie Magdelaine Marchais,Philippe Marchais,
+79,476,Directed,Parent,5,Magdelaine Dumergue,Marie Magdelaine Marchais (ii),1750
+80,476,Directed,Parent,5,Pierre Marchais,Marie Magdelaine Marchais (ii),1750
+244,476,Undirected,Sibling,5,Magdelaine Marchais,Marie Magdelaine Marchais (ii),1750
+322,476,Undirected,Sibling,5,Pierre Marchais (iii),Marie Magdelaine Marchais (ii),1750
+473,476,Undirected,Sibling,5,Marie Marguerite Marchais,Marie Magdelaine Marchais (ii),1750
+474,476,Undirected,Sibling,5,Marie Magdelaine Marchais,Marie Magdelaine Marchais (ii),1750
+475,476,Undirected,Sibling,5,Philippe Marchais,Marie Magdelaine Marchais (ii),1750
+477,107,Directed,Godparent,4,Antoine Caillaud,Antoine Glaumont,1742
+478,121,Directed,Godparent,4,Pierre Robert,Pierre Godinaud,1727
